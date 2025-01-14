@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @RaffaySajjad
-- 👀 I’m interested in Web Development (Front End and Back End)
-- 🌱 I’m currently learning MERN Stack
-- 📫 Reach me at raffaysajjad@hotmail.com
+# 👋 Hi, I'm Raffay Sajjad  
 
-<!---
-RaffaySajjad/RaffaySajjad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Senior Full Stack Engineer**
+
+I'm passionate about crafting high-performance, scalable web and mobile applications. With a strong focus on **frontend excellence** and deep backend knowledge, I’ve spent the last **5+ years** building impactful solutions, mentoring teams, and optimizing user experiences.  
+
+---
+
+## 🛠 Tech Toolbox  
+
+### Languages & Frameworks  
+- **Frontend**: React, Next.js, Remix, React Native, TypeScript  
+- **Backend**: Node.js, Nest.js, Express.js, GraphQL  
+
+### DevOps & Cloud  
+- AWS (EC2, S3, Lambda), Docker, Kubernetes  
+- CI/CD pipelines for seamless deployments  
+
+### Others  
+- Scalable architectures, microservices, and performance optimization  
+
+## 🌟 What I’m Working On  
+
+- 📈 **Driving innovation** through solutions that address real-world challenges.  
+- 🧠 **Mastering advanced performance optimization** to elevate application efficiency and responsiveness.  
+- 💡 **Collaborating on cutting-edge technologies** to create meaningful and scalable software.  
+
